@@ -1,0 +1,1 @@
+Flyweight Pattern 플라이웨이트 패턴(Flyweight Pattern)은 재사용 가능한 객체 인스턴스를 공유시켜 메모리 사용량을 최소화하는 구조 패턴이다.
